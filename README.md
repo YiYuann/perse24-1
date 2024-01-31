@@ -56,7 +56,7 @@ Submit your GitHub (public) repo link (using pull request) to this page by the e
 - TAN LUNN KHAI CADEN
 - TEO JIN YI https://github.com/Xian-Cao/perse24
 - XIAO YIYANG
-- XU YIYUAN
+- XU YIYUAN https://github.com/YiYuann/perse24/tree/main
 - YONG HAO JENG KENNETH
 - ASIAH BINTE MD BADRUN NAFIS
 - DARYL CHUA MING XIANG https://github.com/cutekittens123/pers24
